@@ -12,11 +12,11 @@ Initially, I leveraged some established techniques due to time constraints, but 
 
 #### Main Purpose
 - **Cost Prediction**: Determine the price of each launch based on the likelihood of reusing the first stage.
-- **Informed Decision-Making**: Provide data-driven insights to help Space Y make competitive bids against SpaceX.
+- **Informed Decision-Making**: Provide data-driven insights to help SpaceY make competitive bids against SpaceX.
 - **Portfolio Development**: Complete the capstone project to showcase my skills and knowledge in data science and machine learning.
 
 #### My Role
-- **Data Scientist**: Assume the role of a data scientist working for a startup, Space Y, competing with SpaceX.
+- **Data Scientist**: Assume the role of a data scientist working for a startup, SpaceY, competing with SpaceX.
 - **Model Development**: Train machine learning models to predict the success of the Falcon 9's first stage landing.
 - **Dashboard Creation**: Create dashboards to visualize data insights and present findings to my team.
 
